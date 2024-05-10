@@ -1,2 +1,1 @@
-# GK
-golang mq
+# TinyMQ
